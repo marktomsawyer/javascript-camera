@@ -1,2 +1,2 @@
-# javascript-video
+# javascript-camera
 Exibir webcam no browser
